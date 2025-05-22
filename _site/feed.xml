@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Eine Containerband</title>
+        <description>Punk Band Based in Munich
+</description>
+        <link>https://Containerband.de/</link>
+        <atom:link href="https://Containerband.de/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 22 May 2025 19:12:27 +0200</pubDate>
+        <lastBuildDate>Thu, 22 May 2025 19:12:27 +0200</lastBuildDate>
+        <generator>Jekyll v4.4.1</generator>
+        
+            <item>
+                <title>Wir sind...</title>
+                <description>&lt;p&gt;&lt;strong&gt;…eine Containerband,&lt;/strong&gt; bestehend aus Felix, Verena, Maxi, Lukas und Joe!
+Seit Sommer 2021 schreiben und spielen wir unsere eigenen Punk Songs.
+Als Hommage an unseren geliebten Proberaum – ein Container – haben wir uns nach ihm benannt. Auch wenn wir uns in unserem Container wohl fühlen, ist unser zweites Zuhause die Bühne.
+Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch gut performen, sondern auch im Publikum gute Stimmung zu verbreiten. In den Minuten, die wir haben, soll jeder eine gute Zeit haben.&lt;/p&gt;
+</description>
+                <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
+                <link>https://Containerband.de/2020/01/23/wir-sind/</link>
+                <guid isPermaLink="true">https://Containerband.de/2020/01/23/wir-sind/</guid>
+                
+                <category>band</category>
+                
+                <category>full</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>On Tour...</title>
+                <description>&lt;table&gt;
+    &lt;caption&gt;Tour Dates&lt;/caption&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Date&lt;/th&gt;
+            &lt;th&gt;Location&lt;/th&gt;
+            &lt;th&gt;Doors&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;14.10.2023&lt;/td&gt;
+            &lt;td&gt;Quax&lt;/td&gt;
+            &lt;td&gt;19:00 Uhr&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;11.11.2023&lt;/td&gt;
+            &lt;td&gt;Quax&lt;/td&gt;
+            &lt;td&gt;19:00 Uhr&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;18.11.2023&lt;/td&gt;
+            &lt;td&gt;Sound Fusion Festival, Brauhouse&lt;/td&gt;
+            &lt;td&gt;16:00 Uhr&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;14.06.2024&lt;/td&gt;
+            &lt;td&gt;Kino am Rang – Freising&lt;/td&gt;
+            &lt;td&gt;19:00 Uhr&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;13.12.2024&lt;/td&gt;
+            &lt;td&gt;Bierstube&lt;/td&gt;
+            &lt;td&gt;19:00 Uhr&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;25.01.2025&lt;/td&gt;
+            &lt;td&gt;Emergenza, Backstage Club&lt;/td&gt;
+            &lt;td&gt;18:30 Uhr&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;12.04.2025&lt;/td&gt;
+            &lt;td&gt;Furthnerbräu&lt;/td&gt;
+            &lt;td&gt;19:00 Uhr&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;03.05.2025&lt;/td&gt;
+            &lt;td&gt;Freisinger Nacht der Musik&lt;/td&gt;
+            &lt;td&gt;18:00 Uhr&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;09.05.2025&lt;/td&gt;
+            &lt;td&gt;Emergenza, Strom&lt;/td&gt;
+            &lt;td&gt;18:00 Uhr&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+                <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
+                <link>https://Containerband.de/2020/01/23/tour/</link>
+                <guid isPermaLink="true">https://Containerband.de/2020/01/23/tour/</guid>
+                
+                <category>band</category>
+                
+                <category>tour</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>See us play live...</title>
+                <description>&lt;iframe src=&quot;https://www.youtube.com/embed/videoseries?si=AIbsLLJT0xhibakZ&amp;amp;list=PLm1CaR-6W0A21AMO5s89qfnq09xwEXBdq&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+                <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
+                <link>https://Containerband.de/2020/01/23/playlist/</link>
+                <guid isPermaLink="true">https://Containerband.de/2020/01/23/playlist/</guid>
+                
+                <category>band</category>
+                
+                <category>tour</category>
+                
+                
+            </item>
+        
+    </channel>
+</rss>
