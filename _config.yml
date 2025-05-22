@@ -12,7 +12,7 @@ title: Eine Containerband
 tagline: Dumme Leute, Dumme Musik
 
 # Site logo
-logo: logo_rund.png
+logo: Logo_rund.png
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: |
@@ -38,13 +38,6 @@ navigation:
 - text: Email
   url: mailto:einecontainerband@gmail.com
   icon: envelope
-
-# Author information - author info at the bottom of the post
-author_name: "John Doe"
-author_bio: "My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 6 years."
-author_url: "https://justgoodthemes.com"
-author_location: "Vilnius, Lithuania"
-author_image: authorimage.jpg
 
 # Footer ad banner
 banner_image: banner.jpg
