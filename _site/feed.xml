@@ -6,8 +6,8 @@
 </description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 May 2025 19:35:53 +0200</pubDate>
-        <lastBuildDate>Thu, 22 May 2025 19:35:53 +0200</lastBuildDate>
+        <pubDate>Wed, 28 May 2025 17:12:07 +0200</pubDate>
+        <lastBuildDate>Wed, 28 May 2025 17:12:07 +0200</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -40,47 +40,47 @@ Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch 
         &lt;/tr&gt;
     &lt;/thead&gt;
     &lt;tbody&gt;
-        &lt;tr&gt;
+        &lt;tr class=&quot;tour-dates-past&quot;&gt;
             &lt;td&gt;14.10.2023&lt;/td&gt;
             &lt;td&gt;Quax&lt;/td&gt;
             &lt;td&gt;19:00 Uhr&lt;/td&gt;
         &lt;/tr&gt;
-        &lt;tr&gt;
+        &lt;tr class=&quot;tour-dates-past&quot;&gt;
             &lt;td&gt;11.11.2023&lt;/td&gt;
             &lt;td&gt;Quax&lt;/td&gt;
             &lt;td&gt;19:00 Uhr&lt;/td&gt;
         &lt;/tr&gt;
-        &lt;tr&gt;
+        &lt;tr class=&quot;tour-dates-past&quot;&gt;
             &lt;td&gt;18.11.2023&lt;/td&gt;
             &lt;td&gt;Sound Fusion Festival, Brauhouse&lt;/td&gt;
             &lt;td&gt;16:00 Uhr&lt;/td&gt;
         &lt;/tr&gt;
-        &lt;tr&gt;
+        &lt;tr class=&quot;tour-dates-past&quot;&gt;
             &lt;td&gt;14.06.2024&lt;/td&gt;
             &lt;td&gt;Kino am Rang – Freising&lt;/td&gt;
             &lt;td&gt;19:00 Uhr&lt;/td&gt;
         &lt;/tr&gt;
-        &lt;tr&gt;
+        &lt;tr class=&quot;tour-dates-past&quot;&gt;
             &lt;td&gt;13.12.2024&lt;/td&gt;
             &lt;td&gt;Bierstube&lt;/td&gt;
             &lt;td&gt;19:00 Uhr&lt;/td&gt;
         &lt;/tr&gt;
-        &lt;tr&gt;
+        &lt;tr class=&quot;tour-dates-past&quot;&gt;
             &lt;td&gt;25.01.2025&lt;/td&gt;
             &lt;td&gt;Emergenza, Backstage Club&lt;/td&gt;
             &lt;td&gt;18:30 Uhr&lt;/td&gt;
         &lt;/tr&gt;
-        &lt;tr&gt;
+        &lt;tr class=&quot;tour-dates-past&quot;&gt;
             &lt;td&gt;12.04.2025&lt;/td&gt;
             &lt;td&gt;Furthnerbräu&lt;/td&gt;
             &lt;td&gt;19:00 Uhr&lt;/td&gt;
         &lt;/tr&gt;
-        &lt;tr&gt;
+        &lt;tr class=&quot;tour-dates-past&quot;&gt;
             &lt;td&gt;03.05.2025&lt;/td&gt;
             &lt;td&gt;Freisinger Nacht der Musik&lt;/td&gt;
             &lt;td&gt;18:00 Uhr&lt;/td&gt;
         &lt;/tr&gt;
-        &lt;tr&gt;
+        &lt;tr class=&quot;tour-dates-past&quot;&gt;
             &lt;td&gt;09.05.2025&lt;/td&gt;
             &lt;td&gt;Emergenza, Strom&lt;/td&gt;
             &lt;td&gt;18:00 Uhr&lt;/td&gt;

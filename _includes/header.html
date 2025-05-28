@@ -7,7 +7,7 @@
                 {% if page.url == link.url %}
                     {% assign current = 'nav-current' %}
                 {% endif %}
-                <li class="{{ current }}"><a class="{{ current }}" href="{{ link.url }}"><i class="fa fa-{{ link.icon }}" aria-hidden="true"></i><span style="margin-left: 10px;">{{ link.text }}</span></a></li>
+                <li class="{{ current }}"><a class="{{ current }}" href="{{ link.url }}" target="_blank"><i class="fa fa-{{ link.icon }}" aria-hidden="true"></i><span style="margin-left: 10px;">{{ link.text }}</span></a></li>
             {% endfor %}
             </ul>
         </div>
@@ -16,8 +16,8 @@
 <header class="site-header fade-in-down delay-0_5s">
     <div class="inner">
         {% if site.logo != null %}
-        <p class="site-logo"><a href="{{ site.baseurl }}/" rel="home"><img src="{{ site.baseurl }}/images/{{ site.logo }}" width="300" alt="{{ site.title }} logo" /></a></p>
-        <h1 class="site-title screen-reader-text"><a href="{{ site.baseurl }}/" rel="home">{{site.title}}</a></h1>
+        <p class="site-logo"><a rel="home"><img src="{{ site.baseurl }}/images/{{ site.logo }}" width="300" alt="{{ site.title }} logo" /></a></p>
+        <h1 class="site-title screen-reader-text"><a rel="home">{{site.title}}</a></h1>
         {% else %}
         <h1 class="site-title"><a href="{{ site.baseurl }}/" rel="home">{{site.title}}</a></h1>
         {% endif %}
