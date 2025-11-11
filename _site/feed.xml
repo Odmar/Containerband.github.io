@@ -4,10 +4,10 @@
         <title>Eine Containerband</title>
         <description>Punk Band from Munich
 </description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Nov 2025 18:59:50 +0100</pubDate>
-        <lastBuildDate>Tue, 11 Nov 2025 18:59:50 +0100</lastBuildDate>
+        <link>https://Containerband.de/</link>
+        <atom:link href="https://Containerband.de/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 11 Nov 2025 19:02:03 +0100</pubDate>
+        <lastBuildDate>Tue, 11 Nov 2025 19:02:03 +0100</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -18,8 +18,8 @@ Als Hommage an unseren geliebten Proberaum – ein Container – haben wir uns n
 Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch gut performen, sondern auch im Publikum gute Stimmung zu verbreiten. In den Minuten, die wir haben, soll jeder eine gute Zeit haben.&lt;/p&gt;
 </description>
                 <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
-                <link>http://localhost:4000/2020/01/23/wir-sind/</link>
-                <guid isPermaLink="true">http://localhost:4000/2020/01/23/wir-sind/</guid>
+                <link>https://Containerband.de/2020/01/23/wir-sind/</link>
+                <guid isPermaLink="true">https://Containerband.de/2020/01/23/wir-sind/</guid>
                 
                 <category>band</category>
                 
@@ -99,8 +99,8 @@ Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch 
 &lt;/table&gt;
 </description>
                 <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
-                <link>http://localhost:4000/2020/01/23/tour/</link>
-                <guid isPermaLink="true">http://localhost:4000/2020/01/23/tour/</guid>
+                <link>https://Containerband.de/2020/01/23/tour/</link>
+                <guid isPermaLink="true">https://Containerband.de/2020/01/23/tour/</guid>
                 
                 <category>band</category>
                 
@@ -114,8 +114,8 @@ Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch 
                 <description>&lt;iframe src=&quot;https://www.youtube.com/embed/videoseries?si=AIbsLLJT0xhibakZ&amp;amp;list=PLm1CaR-6W0A21AMO5s89qfnq09xwEXBdq&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
                 <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
-                <link>http://localhost:4000/2020/01/23/playlist/</link>
-                <guid isPermaLink="true">http://localhost:4000/2020/01/23/playlist/</guid>
+                <link>https://Containerband.de/2020/01/23/playlist/</link>
+                <guid isPermaLink="true">https://Containerband.de/2020/01/23/playlist/</guid>
                 
                 <category>band</category>
                 
