@@ -4,26 +4,23 @@
         <title>Eine Containerband</title>
         <description>Punk Band from Munich
 </description>
-        <link>https://Containerband.de/</link>
-        <atom:link href="https://Containerband.de/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Feb 2026 12:15:45 +0100</pubDate>
-        <lastBuildDate>Sun, 22 Feb 2026 12:15:45 +0100</lastBuildDate>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 22 Feb 2026 12:57:47 +0100</pubDate>
+        <lastBuildDate>Sun, 22 Feb 2026 12:57:47 +0100</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
-                <title>Wir sind...</title>
-                <description>&lt;p&gt;&lt;strong&gt;…eine Containerband,&lt;/strong&gt; bestehend aus Felix, Verena, Maxi, Lukas und Joe!
-Seit Sommer 2021 schreiben und spielen wir unsere eigenen Punk Songs.
-Als Hommage an unseren geliebten Proberaum – ein Container – haben wir uns nach ihm benannt. Auch wenn wir uns in unserem Container wohl fühlen, ist unser zweites Zuhause die Bühne.
-Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch gut performen, sondern auch im Publikum gute Stimmung zu verbreiten. In den Minuten, die wir haben, soll jeder eine gute Zeit haben.&lt;/p&gt;
+                <title>See us play live...</title>
+                <description>&lt;iframe src=&quot;https://www.youtube.com/embed/videoseries?si=AIbsLLJT0xhibakZ&amp;amp;list=PLm1CaR-6W0A21AMO5s89qfnq09xwEXBdq&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
                 <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
-                <link>https://Containerband.de/2020/01/23/wir-sind/</link>
-                <guid isPermaLink="true">https://Containerband.de/2020/01/23/wir-sind/</guid>
+                <link>http://localhost:4000/2020/01/23/playlist/</link>
+                <guid isPermaLink="true">http://localhost:4000/2020/01/23/playlist/</guid>
                 
                 <category>band</category>
                 
-                <category>full</category>
+                <category>tour</category>
                 
                 
             </item>
@@ -108,9 +105,9 @@ Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch 
     &lt;/tbody&gt;
 &lt;/table&gt;
 </description>
-                <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
-                <link>https://Containerband.de/2020/01/23/tour/</link>
-                <guid isPermaLink="true">https://Containerband.de/2020/01/23/tour/</guid>
+                <pubDate>Wed, 22 Jan 2020 00:00:00 +0100</pubDate>
+                <link>http://localhost:4000/2020/01/22/tour/</link>
+                <guid isPermaLink="true">http://localhost:4000/2020/01/22/tour/</guid>
                 
                 <category>band</category>
                 
@@ -120,16 +117,19 @@ Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch 
             </item>
         
             <item>
-                <title>See us play live...</title>
-                <description>&lt;iframe src=&quot;https://www.youtube.com/embed/videoseries?si=AIbsLLJT0xhibakZ&amp;amp;list=PLm1CaR-6W0A21AMO5s89qfnq09xwEXBdq&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+                <title>Wir sind...</title>
+                <description>&lt;p&gt;&lt;strong&gt;…eine Containerband,&lt;/strong&gt; bestehend aus Felix, Verena, Maxi, Lukas und Joe!
+Seit Sommer 2021 schreiben und spielen wir unsere eigenen Punk Songs.
+Als Hommage an unseren geliebten Proberaum – ein Container – haben wir uns nach ihm benannt. Auch wenn wir uns in unserem Container wohl fühlen, ist unser zweites Zuhause die Bühne.
+Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch gut performen, sondern auch im Publikum gute Stimmung zu verbreiten. In den Minuten, die wir haben, soll jeder eine gute Zeit haben.&lt;/p&gt;
 </description>
-                <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
-                <link>https://Containerband.de/2020/01/23/playlist/</link>
-                <guid isPermaLink="true">https://Containerband.de/2020/01/23/playlist/</guid>
+                <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
+                <link>http://localhost:4000/2020/01/21/wir-sind/</link>
+                <guid isPermaLink="true">http://localhost:4000/2020/01/21/wir-sind/</guid>
                 
                 <category>band</category>
                 
-                <category>tour</category>
+                <category>full</category>
                 
                 
             </item>

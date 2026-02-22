@@ -1,10 +1,10 @@
 [
   
     {
-      "title"    : "Wir sind...",
+      "title"    : "See us play live...",
       "category" : "",
-      "tags"     : "band, full",
-      "url"      : "/2020/01/23/wir-sind/",
+      "tags"     : "band, tour",
+      "url"      : "/2020/01/23/playlist/",
       "date"     : "January 23, 2020"
     } ,
   
@@ -12,16 +12,16 @@
       "title"    : "On Tour...",
       "category" : "",
       "tags"     : "band, tour",
-      "url"      : "/2020/01/23/tour/",
-      "date"     : "January 23, 2020"
+      "url"      : "/2020/01/22/tour/",
+      "date"     : "January 22, 2020"
     } ,
   
     {
-      "title"    : "See us play live...",
+      "title"    : "Wir sind...",
       "category" : "",
-      "tags"     : "band, tour",
-      "url"      : "/2020/01/23/playlist/",
-      "date"     : "January 23, 2020"
+      "tags"     : "band, full",
+      "url"      : "/2020/01/21/wir-sind/",
+      "date"     : "January 21, 2020"
     } 
   
 ]

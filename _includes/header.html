@@ -3,25 +3,36 @@
         <div id="nav-menu" class="nav-menu">
             <ul class="menu">
             {% for link in site.navigation %}
-                {% assign current = nil %}
-                {% if page.url == link.url %}
-                    {% assign current = 'nav-current' %}
-                {% endif %}
-                <li class="{{ current }}"><a class="{{ current }}" href="{{ link.url }}" target="_blank"><i class="fa fa-{{ link.icon }}" aria-hidden="true"></i><span style="margin-left: 10px;">{{ link.text }}</span></a></li>
+                <li>
+                    <a href="{{ link.url }}">
+                        {% if link.icon %}<i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>{% endif %}
+                        <span>{{ link.text }}</span>
+                    </a>
+                </li>
             {% endfor %}
             </ul>
         </div>
     </div><!-- .inner -->
 </nav><!-- .site-nav -->
-<header class="site-header fade-in-down delay-0_5s">
+
+<header class="site-header fade-in-down">
+    <div class="hero-gallery">
+        {% assign posts_with_images = site.posts | where_exp: "post", "post.featured_image" %}
+        {% for post in posts_with_images %}
+            <div class="gallery-item" style="background-image: url('{{ "/images/posts/" | append: post.featured_image | prepend: site.baseurl }}');"></div>
+        {% endfor %}
+    </div>
     <div class="inner">
         {% if site.logo != null %}
-        <p class="site-logo"><a rel="home"><img src="{{ site.baseurl }}/images/{{ site.logo }}" width="300" alt="{{ site.title }} logo" /></a></p>
-        <h1 class="site-title screen-reader-text"><a rel="home">{{site.title}}</a></h1>
+        <p class="site-logo">
+            <a href="{{ site.baseurl }}/">
+                <img src="{{ site.baseurl }}/images/{{ site.logo }}" alt="{{ site.title }} logo" />
+            </a>
+        </p>
+        <h1 class="site-title screen-reader-text">{{site.title}}</h1>
         {% else %}
-        <h1 class="site-title"><a href="{{ site.baseurl }}/" rel="home">{{site.title}}</a></h1>
+        <h1 class="site-title"><a href="{{ site.baseurl }}/">{{site.title}}</a></h1>
         {% endif %}
+        <p class="site-description">{{ site.tagline }}</p>
     </div><!-- .inner -->
 </header><!-- .site-header -->
-
-{% include search.html %}

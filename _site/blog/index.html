@@ -9,13 +9,17 @@
 ">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="stylesheet" type="text/css"
-    href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic%7COpen+Sans:400,700,400italic,700italic" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat:wght@800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/main.css" />
-  <link rel="canonical" href="https://Containerband.de/blog/">
+  <link rel="canonical" href="http://localhost:4000/blog/">
   <link rel="alternate" type="application/rss+xml" title="Eine Containerband Feed"
-    href="https://Containerband.de/feed.xml">
-    <link rel="icon" type="image/x-icon" href="/images/Logo_rund.png">
+    href="http://localhost:4000/feed.xml">
+  <link rel="icon" type="image/svg+xml" href="/images/logo_new.svg">
+  <style>
+    html { scroll-behavior: smooth; }
+  </style>
 </head>
 
 <body class="fixed-nav">
@@ -25,64 +29,80 @@
         <div id="nav-menu" class="nav-menu">
             <ul class="menu">
             
-                
-                
-                <li class=""><a class="" href="https://www.instagram.com/einecontainerband" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i><span style="margin-left: 10px;">Instagram</span></a></li>
+                <li>
+                    <a href="#wir-sind">
+                        
+                        <span>Wir sind</span>
+                    </a>
+                </li>
             
-                
-                
-                <li class=""><a class="" href="https://youtube.com/@EineContainerband" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i><span style="margin-left: 10px;">Youtube</span></a></li>
+                <li>
+                    <a href="#on-tour">
+                        
+                        <span>Tour</span>
+                    </a>
+                </li>
             
-                
-                
-                <li class=""><a class="" href="mailto:einecontainerband@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i><span style="margin-left: 10px;">Email</span></a></li>
+                <li>
+                    <a href="#see-us-play-live">
+                        
+                        <span>Playlist</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://www.instagram.com/einecontainerband">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                        <span>Instagram</span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://youtube.com/@EineContainerband">
+                        <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                        <span>Youtube</span>
+                    </a>
+                </li>
             
             </ul>
         </div>
     </div><!-- .inner -->
 </nav><!-- .site-nav -->
-<header class="site-header fade-in-down delay-0_5s">
+
+<header class="site-header fade-in-down">
+    <div class="hero-gallery">
+        
+        
+            <div class="gallery-item" style="background-image: url('/images/posts/on-tour.jpg');"></div>
+        
+            <div class="gallery-item" style="background-image: url('/images/posts/band_all.jpg');"></div>
+        
+    </div>
     <div class="inner">
         
-        <p class="site-logo"><a rel="home"><img src="/images/Logo_rund.png" width="300" alt="Eine Containerband logo" /></a></p>
-        <h1 class="site-title screen-reader-text"><a rel="home">Eine Containerband</a></h1>
+        <p class="site-logo">
+            <a href="/">
+                <img src="/images/logo_new.svg" alt="Eine Containerband logo" />
+            </a>
+        </p>
+        <h1 class="site-title screen-reader-text">Eine Containerband</h1>
         
+        <p class="site-description">Dumme Leute, Dumme Musik</p>
     </div><!-- .inner -->
 </header><!-- .site-header -->
-
-<section class="site-search" role="search">
-		<div class="search-scrollable">
-			<div class="search-box">
-				<div class="search-box-inside">
-					<h2 class="screen-reader-text">Search </h2>
-					<form class="search-form">
-						<label class="screen-reader-text">Search for:</label>
-						<input type="text" id="search-field" class="search-field" placeholder="Type your keywords&hellip;" />
-						<input type="submit" class="search-submit screen-reader-text" value="Search" />
-					</form>
-					<ul id="search-results" class="search-results"></ul>
-				</div><!-- .search-box-inside -->
-				<button id="search-close" class="search-toggle"><span class="close-icon" aria-hidden="true"></span><span class="screen-reader-text">Close</span></button>
-			</div><!-- .search-box -->
-		</div><!-- .search-scrollable -->
-</section><!-- .site-search -->
-
 
     <h1>Latest Posts</h1>
 
 <ul>
   
     <li>
-      <h2><a href="/2020/01/23/wir-sind/">Wir sind...</a></h2>
-      <p><strong>…eine Containerband,</strong> bestehend aus Felix, Verena, Maxi, Lukas und Joe!
-Seit Sommer 2021 schreiben und spielen wir unsere eigenen Punk Songs.
-Als Hommage an unseren geliebten Proberaum – ein Container – haben wir uns nach ihm benannt. Auch wenn wir uns in unserem Container wohl fühlen, ist unser zweites Zuhause die Bühne.
-Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch gut performen, sondern auch im Publikum gute Stimmung zu verbreiten. In den Minuten, die wir haben, soll jeder eine gute Zeit haben.</p>
+      <h2><a href="/2020/01/23/playlist/">See us play live...</a></h2>
+      <iframe src="https://www.youtube.com/embed/videoseries?si=AIbsLLJT0xhibakZ&amp;list=PLm1CaR-6W0A21AMO5s89qfnq09xwEXBdq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
     </li>
   
     <li>
-      <h2><a href="/2020/01/23/tour/">On Tour...</a></h2>
+      <h2><a href="/2020/01/22/tour/">On Tour...</a></h2>
       <table>
     <caption>Tour Dates</caption>
     <thead>
@@ -164,8 +184,11 @@ Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch 
     </li>
   
     <li>
-      <h2><a href="/2020/01/23/playlist/">See us play live...</a></h2>
-      <iframe src="https://www.youtube.com/embed/videoseries?si=AIbsLLJT0xhibakZ&amp;list=PLm1CaR-6W0A21AMO5s89qfnq09xwEXBdq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+      <h2><a href="/2020/01/21/wir-sind/">Wir sind...</a></h2>
+      <p><strong>…eine Containerband,</strong> bestehend aus Felix, Verena, Maxi, Lukas und Joe!
+Seit Sommer 2021 schreiben und spielen wir unsere eigenen Punk Songs.
+Als Hommage an unseren geliebten Proberaum – ein Container – haben wir uns nach ihm benannt. Auch wenn wir uns in unserem Container wohl fühlen, ist unser zweites Zuhause die Bühne.
+Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch gut performen, sondern auch im Publikum gute Stimmung zu verbreiten. In den Minuten, die wir haben, soll jeder eine gute Zeit haben.</p>
 
     </li>
   
@@ -174,29 +197,20 @@ Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch 
     <div class="inner">
         <div class="social-links">
             
+            <a href="https://www.instagram.com/einecontainerband" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
             
             
+            <a href="https://www.youtube.com/@EineContainerband" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
             
             
+            <a href="mailto:einecontainerband@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
             
-            
-            
-            <a href="https://www.instagram.com/einecontainerband"  target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i><span class="screen-reader-text">Instagram</span></a>
-            
-            
-            
-            <a href="https://www.youtube.com/@EineContainerband" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i><span class="screen-reader-text">Youtube</span></a>
-            
-            
-            <a href="mailto:einecontainerband@gmail.com"><i class="fa fa-envelope" aria-hidden="true" target="_blank"></i><span class="screen-reader-text">Email</span></a>
-            
-        </div><!-- .social-links -->
+        </div>
         <div class="copyright">
-            &copy; 2026 <a href="/">Eine Containerband</a> <br />BlogBox theme by <a target="_blank" href="https://justgoodthemes.com/">JustGoodThemes</a>
-        </div><!-- .copyright -->
-        <a href="#page" id="top-link" class="top-link"><i class="fa fa-chevron-up" aria-hidden="true"></i><span class="screen-reader-text">Back to the top</span></a>
-    </div><!-- .inner -->
-</footer><!-- .site-footer -->
+            &copy; 2026 Eine Containerband
+        </div>
+    </div>
+</footer>
 
   </div><!-- .site -->
 

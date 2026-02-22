@@ -1,7 +1,11 @@
 // Typography
-$base-font    : 'PT Serif', Georgia, Times, 'Times New Roman', serif;
-$alt-font     : 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
-$heading-font : $alt-font;
+$base-font    : 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$heading-font : 'Montserrat', $base-font;
 
 // Colors
-$accent-color : #dac62e;
+$bg-color      : #0f0f0f;
+$bg-light      : #1a1a1a;
+$text-color    : #e0e0e0;
+$text-muted    : #a0a0a0;
+$accent-color  : #dac62e;
+$accent-hover  : #f0dc42;

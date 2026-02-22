@@ -1,20 +1,25 @@
 ---
 layout: default
 ---
-<main class="content fade-in-down delay-0_75s">
-    <div class="inner">
-        {% include loop.html %}
-        {% if paginator.total_pages > 1 %}
-        <nav class="pagination">
-            <h2 class="screen-reader-text">Posts navigation</h2>
-            {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="newer-posts"><i class="fa fa-angle-left" aria-hidden="true"></i> Newer Posts</a>
-            {% endif %}
-            <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-            {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="older-posts">Older Posts <i class="fa fa-angle-right" aria-hidden="true"></i></a>
-            {% endif %}
-        </nav><!-- .pagination -->
-        {% endif %}
-    </div><!-- .inner -->
-</main><!-- .content -->
+<main class="content">
+    {% assign posts = site.posts | sort: 'date' %}
+    {% for post in posts %}
+        <section id="{{ post.title | slugify }}" class="section-{{ post.title | slugify }} fade-in-down">
+            <div class="inner">
+                <header class="section-header">
+                    <h2 class="section-title">{{ post.title }}</h2>
+                </header>
+                
+                <div class="section-content">
+                    {% if post.featured_image %}
+                    <div class="featured-image">
+                        <img src="{{ "/images/posts/" | append: post.featured_image | prepend: site.baseurl }}" alt="{{ post.title }}">
+                    </div>
+                    {% endif %}
+                    
+                    {{ post.content }}
+                </div>
+            </div>
+        </section>
+    {% endfor %}
+</main>

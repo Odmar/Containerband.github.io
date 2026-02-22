@@ -8,13 +8,17 @@
     content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
-  <link rel="stylesheet" type="text/css"
-    href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic%7COpen+Sans:400,700,400italic,700italic" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat:wght@800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
   <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed"
     href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="icon" type="image/x-icon" href="/images/Logo_rund.png">
+  <link rel="icon" type="image/svg+xml" href="{{ "/images/logo_new.svg" | prepend: site.baseurl }}">
+  <style>
+    html { scroll-behavior: smooth; }
+  </style>
 </head>
 
 <body class="fixed-nav">

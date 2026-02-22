@@ -12,7 +12,7 @@ title: Eine Containerband
 tagline: Dumme Leute, Dumme Musik
 
 # Site logo
-logo: Logo_rund.png
+logo: logo_new.svg
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: |
@@ -29,15 +29,18 @@ sass:
 
 # Site navigation - each item must have a title and a url.
 navigation:
+- text: Wir sind
+  url: "#wir-sind"
+- text: Tour
+  url: "#on-tour"
+- text: Playlist
+  url: "#see-us-play-live"
 - text: Instagram
   url: https://www.instagram.com/einecontainerband
   icon: instagram
 - text: Youtube
   url: https://youtube.com/@EineContainerband
   icon: youtube-play
-- text: Email
-  url: mailto:einecontainerband@gmail.com
-  icon: envelope
 
 # Footer ad banner
 banner_image: banner.jpg
