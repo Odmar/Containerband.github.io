@@ -3,7 +3,7 @@
         <div id="nav-menu" class="nav-menu">
             <ul class="menu">
             {% for link in site.navigation %}
-                <li>
+                <li class="{% if link.url contains 'http' %}social-link{% else %}section-link{% endif %}">
                     <a href="{{ link.url }}">
                         {% if link.icon %}<i class="fa fa-{{ link.icon }}" aria-hidden="true"></i>{% endif %}
                         <span>{{ link.text }}</span>

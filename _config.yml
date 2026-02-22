@@ -31,10 +31,13 @@ sass:
 navigation:
 - text: Wir sind
   url: "#wir-sind"
+  icon: user
 - text: Tour
   url: "#on-tour"
+  icon: calendar
 - text: Playlist
   url: "#see-us-play-live"
+  icon: music
 - text: Instagram
   url: https://www.instagram.com/einecontainerband
   icon: instagram
