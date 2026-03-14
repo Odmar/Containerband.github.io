@@ -17,9 +17,9 @@
 
 <header class="site-header fade-in-down">
     <div class="hero-gallery">
-        {% assign posts_with_images = site.posts | where_exp: "post", "post.featured_image" %}
-        {% for post in posts_with_images %}
-            <div class="gallery-item" style="background-image: url('{{ "/images/posts/" | append: post.featured_image | prepend: site.baseurl }}');"></div>
+        {% assign gallery_images = site.static_files | where_exp: "file", "file.path contains '/images/posts/'" | where_exp: "file", "file.extname == '.jpg'" %}
+        {% for image in gallery_images %}
+            <div class="gallery-item" style="background-image: url('{{ image.path }}');"></div>
         {% endfor %}
     </div>
     <div class="inner">
