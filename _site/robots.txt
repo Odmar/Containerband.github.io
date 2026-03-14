@@ -1,1 +1,1 @@
-Sitemap: https://containerband.de/Containerband/sitemap.xml
+Sitemap: https://containerband.de/Containerband.github.io/sitemap.xml
