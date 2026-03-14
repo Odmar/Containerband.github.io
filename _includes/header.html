@@ -19,7 +19,7 @@
     <div class="hero-gallery">
         {% assign gallery_images = site.static_files | where_exp: "file", "file.path contains '/images/posts/'" | where_exp: "file", "file.extname == '.jpg'" %}
         {% for image in gallery_images %}
-            <div class="gallery-item" style="background-image: url('{{ image.path }}');"></div>
+            <div class="gallery-item" style="background-image: url('{{ image.path | prepend: site.baseurl }}');"></div>
         {% endfor %}
     </div>
     <div class="inner">
