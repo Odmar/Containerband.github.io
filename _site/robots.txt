@@ -1,1 +1,1 @@
-Sitemap: https://containerband.de/Containerband.github.io/sitemap.xml
+Sitemap: http://ecb-punk.de/sitemap.xml

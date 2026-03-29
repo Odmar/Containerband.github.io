@@ -4,10 +4,10 @@
         <title>Eine Containerband</title>
         <description>Punk Band from Munich
 </description>
-        <link>https://Containerband.de/Containerband.github.io/</link>
-        <atom:link href="https://Containerband.de/Containerband.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 07:50:15 +0100</pubDate>
-        <lastBuildDate>Sat, 14 Mar 2026 07:50:15 +0100</lastBuildDate>
+        <link>http://ecb-punk.de/</link>
+        <atom:link href="http://ecb-punk.de/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 29 Mar 2026 20:01:17 +0200</pubDate>
+        <lastBuildDate>Sun, 29 Mar 2026 20:01:17 +0200</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
         
             <item>
@@ -15,8 +15,8 @@
                 <description>&lt;iframe src=&quot;https://www.youtube.com/embed/videoseries?si=AIbsLLJT0xhibakZ&amp;amp;list=PLm1CaR-6W0A21AMO5s89qfnq09xwEXBdq&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
                 <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
-                <link>https://Containerband.de/Containerband.github.io/2020/01/23/playlist/</link>
-                <guid isPermaLink="true">https://Containerband.de/Containerband.github.io/2020/01/23/playlist/</guid>
+                <link>http://ecb-punk.de/2020/01/23/playlist/</link>
+                <guid isPermaLink="true">http://ecb-punk.de/2020/01/23/playlist/</guid>
                 
                 <category>band</category>
                 
@@ -37,6 +37,11 @@
         &lt;/tr&gt;
     &lt;/thead&gt;
     &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;27.07.2026&lt;/td&gt;
+            &lt;td&gt;Kulturspektakel Gauting 2026&lt;/td&gt;
+            &lt;td&gt;15:00 Uhr&lt;/td&gt;
+        &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;09.05.2026&lt;/td&gt;
             &lt;td&gt;Jugendzentrum Profil (Garching)&lt;/td&gt;
@@ -106,8 +111,8 @@
 &lt;/table&gt;
 </description>
                 <pubDate>Wed, 22 Jan 2020 00:00:00 +0100</pubDate>
-                <link>https://Containerband.de/Containerband.github.io/2020/01/22/tour/</link>
-                <guid isPermaLink="true">https://Containerband.de/Containerband.github.io/2020/01/22/tour/</guid>
+                <link>http://ecb-punk.de/2020/01/22/tour/</link>
+                <guid isPermaLink="true">http://ecb-punk.de/2020/01/22/tour/</guid>
                 
                 <category>band</category>
                 
@@ -124,8 +129,8 @@ Als Hommage an unseren geliebten Proberaum – ein Container – haben wir uns n
 Wenn wir auf der Bühne stehen, ist uns nicht nur wichtig, dass wir musikalisch gut performen, sondern auch im Publikum gute Stimmung zu verbreiten. In den Minuten, die wir haben, soll jeder eine gute Zeit haben.&lt;/p&gt;
 </description>
                 <pubDate>Tue, 21 Jan 2020 00:00:00 +0100</pubDate>
-                <link>https://Containerband.de/Containerband.github.io/2020/01/21/wir-sind/</link>
-                <guid isPermaLink="true">https://Containerband.de/Containerband.github.io/2020/01/21/wir-sind/</guid>
+                <link>http://ecb-punk.de/2020/01/21/wir-sind/</link>
+                <guid isPermaLink="true">http://ecb-punk.de/2020/01/21/wir-sind/</guid>
                 
                 <category>band</category>
                 
